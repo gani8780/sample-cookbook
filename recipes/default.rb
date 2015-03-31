@@ -13,6 +13,8 @@
 # All rights reserved - Do Not Redistribute
 #
 
+foo
+
 package 'httpd' do
   action :install
 end
