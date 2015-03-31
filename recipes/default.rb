@@ -14,7 +14,7 @@
 #
 
 
-package2 'httpd' do
+package 'httpd' do
   action :install
 end
 
