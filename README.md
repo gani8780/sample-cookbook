@@ -1,6 +1,5 @@
 # sample-cookbook
 
-Re-creation of clowns/bears from Chef Fundamentals
+Re-creation of clowns/bears from Chef Fundamentals!
 
 
-Hello World!
