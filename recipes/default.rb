@@ -14,11 +14,12 @@
 #
 
 
-foo bar
+
 
 
 package 'httpd' do
   action :install
+  notify node[:some][:symbol]
 end
 
 # Disable the default virtual host
