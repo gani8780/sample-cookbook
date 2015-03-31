@@ -13,8 +13,13 @@
 # All rights reserved - Do Not Redistribute
 #
 
+
+
+
+
 package 'httpd' do
   action :install
+  notify node[:some][:symbol]
 end
 
 # Disable the default virtual host
