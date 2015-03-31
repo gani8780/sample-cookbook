@@ -14,6 +14,9 @@
 #
 
 
+foo bar
+
+
 package 'httpd' do
   action :install
 end
